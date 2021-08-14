@@ -1,2 +1,2 @@
 # BatchBuilder
-Jberet implementation to build Batch with JobBuilder
+Jberet implementation to build Batch with programmatic Job Definition.
